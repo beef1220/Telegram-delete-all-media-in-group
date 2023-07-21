@@ -1,0 +1,22 @@
+{
+  "name": "telegram-delete-all-media-in-group",
+  "version": "1.0.0",
+  "description": "To delete all media file in a Telegram group chat",
+  "main": "bot.js",
+  "dependencies": {
+    "telegraf": "^3.32.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beef1220/Telegram-delete-all-media-in-group.git"
+  },
+  "author": "Beef Yung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beef1220/Telegram-delete-all-media-in-group/issues"
+  },
+  "homepage": "https://github.com/beef1220/Telegram-delete-all-media-in-group#readme"
+}
